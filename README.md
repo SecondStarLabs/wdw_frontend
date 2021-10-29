@@ -1,5 +1,5 @@
 # WdwFrontend
-Short description and motivation.
+This gem is in a SUPER-ALPHA mode still.  If you have any suggestions please contribute.
 
 ## Usage
 How to use my plugin.

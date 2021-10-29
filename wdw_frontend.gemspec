@@ -7,7 +7,7 @@ Gem::Specification.new do |spec|
   spec.email       = ["carl@wdwhub.net"]
   spec.homepage    = "https://github.com/SecondStarLabs/wdw_frontend"
   spec.summary     = "hit the ground running with style."
-  spec.description = "wdw hub default styles for development"
+  spec.description = "THIS IS SUPER ALPHA. WDW Hub default styles for development"
   spec.license     = "MIT"
 
   # Prevent pushing this gem to RubyGems.org. To allow pushes either set the 'allowed_push_host'
